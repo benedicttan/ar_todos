@@ -1,0 +1,17 @@
+Responsibilities:
+List
+Add task
+Complete task
+Delete task
+
+
+Optional:
+Export in readable form
+
+Not needed since we're running ARGV/command style:
+Exit with/without saving
+
+Each list has many tasks
+Each task belongs to one list
+
+Each task has a description and done/not done mark
